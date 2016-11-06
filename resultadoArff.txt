@@ -1,0 +1,28 @@
+
+
+Resultados matriz de confusao algoritmo NaiveBayes
+Atributos: Resolvida | Não-Resolvida | Total
+Seguindo essa ordem na horizontal e vertical
+2725 | 1058 | 3783 | 
+632 | 830 | 1462 | 
+3357 | 1888 | 5245 | 
+
+Precisao | 0,8117 | 0,4396
+Revocaçao | 0,7203 | 0,5677
+Acuracia | 0,6779
+Taxa de Erro | 0,3222
+
+
+
+Resultados matriz de confusao algoritmo Knn
+Atributos: Resolvida | Não-Resolvida | Total
+Seguindo essa ordem na horizontal e vertical
+2987 | 438 | 3425 | 
+370 | 1450 | 1820 | 
+3357 | 1888 | 5245 | 
+
+Precisao | 0,8898 | 0,768
+Revocaçao | 0,8721 | 0,7967
+Acuracia | 0,8461
+Taxa de Erro | 0,1541
+
